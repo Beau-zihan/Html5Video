@@ -1,6 +1,9 @@
 ## Html5Video说明
 基于html5实现的视频播放器，提供PSD源文件，部分功能未完善，2012年作品，已停止维护
 
+##截图
+
+![html5video](https://github.com/Beau-zihan/Html5Video/blob/master/html5video-preview.png)
 ## 示例
 http://www.zi-han.net/developer/717.html
 
