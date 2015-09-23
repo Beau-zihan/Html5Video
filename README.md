@@ -5,7 +5,7 @@
 http://www.zi-han.net/developer/717.html
 
 ## 配置
-<code>$(function(){
+<pre>$(function(){
 	/**--精简示例--**/
 	$(".video_container").html5video({src:"http://cdn.zi-han.net/file/HTML5%E6%A6%82%E8%BF%B0.mp4"});
 	/**--完整示例--**/
@@ -18,4 +18,4 @@ http://www.zi-han.net/developer/717.html
 		preload:true,            //Boolean型，如果出现该属性，则视频在页面加载时进行加载，并预备播放。
 		notsuportmsg:"您的浏览器不支持html5，无法使用该插件！" //String型，浏览器不支持video标签时的提示，可使用html标签。
 	});
-});</code>
+});</pre>
